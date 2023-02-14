@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/95723185/218594276-b68f88fb-895c-44f5-
 
 > NFT Folder Animation
 
-Lots of NFT wallets could be nicer. I like to organize files, so I thought I would provide a mock-up that would organize NFTs in your wallet by collection. In this case, [@nounsdao](https://twitter.com/nounsdao) is implemented with NFT creation date and NFT ID.
+Lots of NFT wallets could be nicer. I like to organize files, so I thought I would provide a mock-up that would organize NFTs in your wallet by collection. In this case, [@nounsdao](https://twitter.com/nounsdao) is implemented with NFT creation date and NFT ID. Fist time playing with anime.js library!
 
 [Frontend](/)
 
